@@ -1,11 +1,12 @@
-# Table Of Contents
+# Data Processing
+
+This should point you towards all the data processing code.
+
+* Daily data
+ Description: This file constructs daily step count, and engagement levels.
+ Author: Walter
+ [Daily data file](/Walter/daily/dailydata.R)
 
 
-### SARA
-SARA does this ...
-Add a link to the repo
 
-
-### Heartsteps
-Heartsteps does that
 
